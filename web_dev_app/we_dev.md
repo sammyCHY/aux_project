@@ -1,14 +1,11 @@
 # Web Development and Programming Assignment.
 
-1. Create a folder in any location on your computer computer (ex. Desktop, Documents)
+1. Create a folder in any location on your computer (eg. Desktop, Documents)
 
 ![The image shows the folder in the Desktop](images/images/web-dev-folder.png)
 
 
-The Image below shows the created web-dev folder on my Desktop computer.
-
-
-
+ 
 2. Inside the folder, create three more folders and name them as follows: css, JavaScript, images, config.
 
 `Below is the sub-config folders created inside the main folder.`
